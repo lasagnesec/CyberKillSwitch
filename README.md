@@ -6,3 +6,5 @@ Uses dnsapi.lib function [DnsQuery_A](https://learn.microsoft.com/en-us/windows/
 This is PoC code and doesn't do anything further than that, ideally it would be used to execute other functions if the website exists.
 
 This is a similar function to that seen in WannaCry.
+
+Brief writeup on my blog [here](https://www.lasagnesec.com/domain-registration-killswitch/)
